@@ -8,7 +8,7 @@ body {
      }
 :root {
     --text-margin: 10vw;
-    --img-margin: 20vw;
+    /*--img-margin: 20vw;*/
 }
 
 html {
@@ -74,6 +74,7 @@ ul {
     
 figcaption {
     text-align: center;
+    color:rgb(112, 112, 112);
 }
 /*figure {width: 30%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}*/
 /*figcaption {font-style: italic; font-size: smaller;}*/
